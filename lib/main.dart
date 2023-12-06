@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Prueba flutter noob pt2',
       home: Container(
           decoration: const BoxDecoration(
             image: DecorationImage(
