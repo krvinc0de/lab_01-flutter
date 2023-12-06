@@ -1,4 +1,4 @@
-# lab_01
+# lab_01 PRACTICA 1, IMAGEN EN EL CENTRO Y APPBAR
 
 A new Flutter project.
 
