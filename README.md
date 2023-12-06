@@ -1,4 +1,4 @@
-# lab_01
+# lab_01 PRACTICA 2, IMAGEN DE FONDO E IMAGEN ENCIMA
 
 A new Flutter project.
 
